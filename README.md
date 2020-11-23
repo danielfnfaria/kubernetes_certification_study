@@ -13,6 +13,8 @@ For use directly in master instance:
 
 `vagrant ssh master`
 
+Obs.: The CNI used in this project it's calico, you can customize the ansible playbooks to change CIDR and install another CNI like a flannel for example.
+
 WARNING: Run all projects in same time, not been tested but if you can try is your risk
 
 ## Training all things
