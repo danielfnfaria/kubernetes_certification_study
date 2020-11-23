@@ -1,6 +1,6 @@
 # kubernetes_certification_study
 
-![alt_text](https://www.cncf.io/wp-content/uploads/2020/08/logo_cka_whitetext-2-340x340.png | width=100)
+<img src=https://www.cncf.io/wp-content/uploads/2020/08/logo_cka_whitetext-2-340x340.png" width=100>
 
 This project was created for help me in the way of kubernetes certification
 
