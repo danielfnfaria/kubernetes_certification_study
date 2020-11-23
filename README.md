@@ -13,6 +13,8 @@ For use directly in master instance:
 
 `vagrant ssh master`
 
+WARNING: Run all projects in same time, not been tested but if you can try is your risk
+
 ## Training all things
 *use training*
 
