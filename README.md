@@ -1,8 +1,17 @@
 # kubernetes_certification_study
 
-<img src=https://www.cncf.io/wp-content/uploads/2020/08/logo_cka_whitetext-2-340x340.png" width=100>
-
 This project was created for help me in the way of kubernetes certification
+
+Requirements on host:
+- vagrant
+- virtualbox
+- ansible
+
+You can use your kubectl on host, for this you need copy /etc/kubernetes/admin.conf from master instance and put content in your ~/.kube/config
+
+For use directly in master instance:
+
+`vagrant ssh master`
 
 ## Training all things
 *use training*
