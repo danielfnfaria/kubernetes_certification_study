@@ -1,4 +1,5 @@
 *.retry
+*.log
 .vagrant
 join_command
 
